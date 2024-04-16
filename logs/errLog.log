@@ -1,0 +1,24 @@
+20240413	12:35:43	17663dfb-f3a1-46aa-abac-112e3e745952	Error: Not allowed by CORS	OPTIONS	/	https://www.google.com
+20240413	12:35:43	be69d66e-6d75-431f-8522-c5eaca9b5785	Error: Not allowed by CORS	GET	/	https://www.google.com
+20240414	00:13:17	082bb512-85a3-43b1-99fc-167eea7b0c76	TypeError: user.save is not a function	PATCH	/users	undefined
+20240414	12:31:05	87980d17-9383-4940-a1a8-786be4e8f2c4	TypeError: Cannot read properties of null (reading '_id')	PATCH	/users	undefined
+20240414	13:59:45	c7220540-f340-4210-8c8f-1222e2d7ba2f	TypeError: sendEmail is not a function	GET	/users/change-password	undefined
+20240414	14:04:48	87155ac6-4a05-42e0-8db5-b6bcab70da2c	SyntaxError: Unexpected token } in JSON at position 41	GET	/users/change-password	undefined
+20240414	16:09:16	6208c195-39c6-46b3-8435-d5c0ac11e6f9	CastError: Cast to ObjectId failed for value "{ id: '661ad1cc0c13284c624eee71' }" (type Object) at path "_id" for model "User"	GET	/user?id=661ad1cc0c13284c624eee71	undefined
+20240414	16:32:13	22b2b7e6-7be5-46b5-8216-b02d729f566c	CastError: Cast to ObjectId failed for value "all" (type string) at path "_id" for model "User"	GET	/user/all	undefined
+20240415	12:59:14	709a48c0-fd5a-4df3-9789-bd55a3d582ca	ReferenceError: author is not defined	POST	/courses	undefined
+20240415	13:01:24	01c99b0a-a809-44f1-921a-529638c6fd56	ReferenceError: author is not defined	POST	/courses	undefined
+20240415	13:03:26	2bab154d-b133-4d35-aaa5-403a2c7551af	ReferenceError: author is not defined	POST	/courses	undefined
+20240415	13:04:11	c852d98e-b158-4e6a-9dc3-979ffc3b0194	ReferenceError: author is not defined	POST	/courses	undefined
+20240415	13:21:12	dbce28df-bae8-4096-8b54-1804e38da75d	Error: Cannot set headers after they are sent to the client	POST	/courses	undefined
+20240415	13:21:50	8a5dc68d-8743-4599-bb8b-d60da2659621	Error: Cannot set headers after they are sent to the client	POST	/courses	undefined
+20240415	13:22:49	28a9377e-f3ad-4ba7-a59d-626946a31c24	Error: Cannot set headers after they are sent to the client	POST	/courses	undefined
+20240415	13:24:58	0ce70413-1995-41f4-b920-8bab2d73ad3a	Error: Cannot set headers after they are sent to the client	POST	/courses	undefined
+20240415	13:26:02	4cd590fc-132a-4edb-a329-a941974d0dc5	Error: Cannot set headers after they are sent to the client	POST	/courses	undefined
+20240415	13:32:08	d125da01-02dd-41bd-81fd-89cdc46fcbe5	ReferenceError: next is not defined	POST	/courses	undefined
+20240415	13:35:51	a946cc12-7987-4362-8934-5777e445ec34	ReferenceError: next is not defined	POST	/courses	undefined
+20240415	13:38:37	6ce086cb-f648-43ae-8a8f-0ce5f8209de4	TypeError: next is not a function	POST	/courses	undefined
+20240415	13:39:05	6aceed5f-c216-4430-83cc-434b6b084083	ReferenceError: next is not defined	POST	/courses	undefined
+20240415	13:41:27	2444d40a-3cff-4130-b075-99aacb63e7a3	ReferenceError: next is not defined	POST	/courses	undefined
+20240415	13:42:36	390e2142-3fda-48d3-8c23-5e177d09178f	TypeError: Cannot read properties of undefined (reading 'creater')	POST	/courses	undefined
+20240415	18:53:25	90e96fe7-fc32-4262-8f0c-f41ac2cc853a	ReferenceError: Cannot access 'coursename' before initialization	POST	/courses/	undefined

@@ -1,0 +1,426 @@
+20240413	11:39:15	f4b4d4ce-c6a8-40a9-9982-c760a403d1dd	GET	/	undefined
+20240413	11:39:16	7b910259-ba41-4e19-a8df-ce4767dcc84f	GET	/css/styles.css	undefined
+20240413	11:39:16	a8702e27-33a6-4302-9266-1bde06c7f899	GET	/favicon.ico	undefined
+20240413	12:22:13	e525d90a-7440-4751-8d82-ab709113d36f	GET	/	undefined
+20240413	12:22:13	f5510ba2-90e5-48f7-90f8-fd27c27f7bcb	GET	/css/styles.css	undefined
+20240413	12:22:14	f2b41fa1-b6d4-4a11-b228-64b6a07cc08b	GET	/favicon.ico	undefined
+20240413	12:25:37	c1b92236-00b9-4221-ba42-92daca0ceb61	GET	/44	undefined
+20240413	12:28:10	2dad6b05-47a3-4291-a976-fc71e9351adf	GET	/	undefined
+20240413	12:28:10	bedfbb16-eba7-4cfc-8918-1921f4b2f849	GET	/css/styles.css	undefined
+20240413	12:28:10	009ca4b3-b8e4-44fc-8017-97e95c975170	GET	/favicon.ico	undefined
+20240413	12:28:15	4dc3b747-b3c0-43e1-95e8-4fe66351427a	GET	/44	undefined
+20240413	12:34:56	86a7ebac-dc41-4dc4-8b8a-57affb140f0d	OPTIONS	/	https://www.google.com
+20240413	12:34:56	e11079b7-6d2b-42ed-910a-f7d3a9340856	GET	/	https://www.google.com
+20240413	12:35:43	ef4aec00-7816-43e9-84eb-884a1db2c6b2	OPTIONS	/	https://www.google.com
+20240413	12:35:43	7602298f-7df6-4faf-9ab0-47fe97b5ca86	GET	/	https://www.google.com
+20240413	12:36:48	ff8b6474-8d87-4792-b017-a6cc9cfa9ee6	GET	/	undefined
+20240413	12:36:48	0e76a71c-cde3-4191-824e-ed945b6387fe	GET	/css/styles.css	undefined
+20240413	12:36:49	ecc0f92e-f44f-41e5-bad7-8a6cdf701873	GET	/favicon.ico	undefined
+20240413	12:36:53	0157f22a-3cbf-4b73-9607-323ffb7a60bd	GET	/33	undefined
+20240413	22:43:59	5ca679c8-5128-441d-8509-674e0954b08d	GET	/users	undefined
+20240414	00:07:30	3f69aca3-9e70-476b-b772-ba5508590cc9	GET	/users	undefined
+20240414	00:11:15	bc59344d-0ff6-4f6d-9012-7237323990a4	POST	/users	undefined
+20240414	00:11:24	647f0ff5-9c41-471f-ac7f-0724698576dd	GET	/users	undefined
+20240414	00:13:17	64163264-de34-4731-8177-d1efaf23392f	PATCH	/users	undefined
+20240414	00:15:23	77ae4b6f-789b-4875-ad94-d208ab6a8a75	PATCH	/users	undefined
+20240414	00:15:33	0a3cc1e5-53f2-4f62-8ae9-9d712782d72d	GET	/users	undefined
+20240414	12:16:22	9a04c778-950d-40d4-8913-415e6eedd830	GET	/otp	undefined
+20240414	12:20:55	2b4fc5d2-6eaf-4059-a96e-cd969361cf67	GET	/otp	undefined
+20240414	12:27:37	a6a17eb3-13be-4bf2-9d43-7215f736303f	PATCH	/users	undefined
+20240414	12:28:01	a4557a72-30ca-49f4-ac3b-eb8809e64f23	GET	/users	undefined
+20240414	12:28:27	85453c19-59e4-4ff3-89d4-917c86946711	PATCH	/users	undefined
+20240414	12:31:04	fae410bd-76f8-4017-a35e-e3c9c2f0f595	PATCH	/users	undefined
+20240414	12:32:23	9b8bd7f3-b589-4ef6-afee-99f1f6e6b28a	PATCH	/users	undefined
+20240414	12:33:12	08ce2e54-f945-482d-875a-19654aef034b	PATCH	/users	undefined
+20240414	12:33:23	962381ea-35ee-4a9a-8c67-d3f07dea02e4	GET	/users	undefined
+20240414	12:33:43	349984cf-c354-45ce-aed1-50e2bac833f8	GET	/otp	undefined
+20240414	13:16:52	80bdae68-1baa-4d34-9569-96f2c1afed0d	GET	/otp	undefined
+20240414	13:22:05	d1ab603a-8d78-4423-94d1-a62ddcffabbf	GET	/otp	undefined
+20240414	13:30:58	d248e095-efac-4fba-944b-3ea57aca8a4c	GET	/otp	undefined
+20240414	13:32:41	9da18fe9-87f4-4fc0-b89b-c351870a7a94	POST	/otp	undefined
+20240414	13:40:41	85c11001-911b-4a7b-bf0c-77155dccae02	GET	/otp	undefined
+20240414	13:59:44	6b9a4dcf-cde6-4ca6-9083-c78e870da2dc	GET	/users/change-password	undefined
+20240414	14:01:22	c68a8fb1-8967-4357-a7d1-48acc91f43ac	GET	/users/change-password	undefined
+20240414	14:03:33	02123231-0afc-4556-9398-58f88449240a	PATCH	/users/change-password	undefined
+20240414	14:04:31	e39d374d-3592-4866-9312-bcea42370561	PATCH	/users/change-password	undefined
+20240414	14:04:48	6bd253fd-c408-499d-9820-fde8986da882	GET	/users/change-password	undefined
+20240414	14:04:55	23859234-e145-43a7-b2e7-30acbacca7f3	GET	/users/change-password	undefined
+20240414	14:05:33	21a59bc7-60ba-4225-8f7b-c5bd6bd9bc9f	GET	/users/change-password	undefined
+20240414	14:05:52	d484e253-d236-4d22-84d4-d0453245cdda	PATCH	/users/change-password	undefined
+20240414	14:09:06	dcfab259-a6c6-4881-9d4f-a5921ec63375	PATCH	/users	undefined
+20240414	14:09:12	03b97195-9863-4dd3-bbdf-829f70163e7a	GET	/users	undefined
+20240414	14:09:48	8d8a7ce7-6842-48f2-bf6e-0a39383f4a07	PATCH	/users	undefined
+20240414	15:38:32	f9e2cb8c-b0e4-480d-a3d7-c7f15ce957a5	PATCH	/users/all	undefined
+20240414	15:38:54	b4e20453-8aae-4fd9-900b-8d848d9bced0	GET	/users/all	undefined
+20240414	15:40:12	cd66faa0-ecc9-42f0-8c16-3dcc61754e80	GET	/user	undefined
+20240414	15:41:43	63b6145a-477f-458b-9ef0-f60fa31d4b62	GET	/user?id=661ad1cc0c13284c624eee71	undefined
+20240414	15:42:59	6908c04f-710f-4757-bd82-7c060908e46f	GET	/user?id=661ad1cc0c13284c624eee71	undefined
+20240414	15:44:15	93db70c0-a26d-4753-9b4e-76f361a91b7f	GET	/user?id=661ad1cc0c13284c624eee71	undefined
+20240414	15:50:37	2e4ceced-ce0b-439c-b1ec-ee03f820a0d6	GET	/user?id=661ad1cc0c13284c624eee71	undefined
+20240414	15:51:00	5f01d086-5a3c-437d-98b0-d623b361fa7a	GET	/user?id=661ad1cc0c13284c624eee71	undefined
+20240414	15:51:16	dee26683-48aa-4c52-b969-0cc36a1954e6	GET	/user/661ad1cc0c13284c624eee71	undefined
+20240414	15:52:09	49ff9ad9-f572-48d0-9d50-794f9973ce2a	GET	/user?id=661ad1cc0c13284c624eee71	undefined
+20240414	15:53:28	f928dd3b-5371-428f-bef5-d0a9a2bf68b8	GET	/user?id=661ad1cc0c13284c624eee71&username=deepu	undefined
+20240414	15:53:42	3e50d91e-1ac7-46e5-9907-ec5fdf1c2eae	GET	/user?id=661ad1cc0c13284c624eee71&username=deepu	undefined
+20240414	15:54:14	de0c8a0e-5368-46ec-852a-18dadaac3dd1	GET	/user?id=661ad1cc0c13284c624eee71&username=deepu	undefined
+20240414	15:54:44	c39cd70e-75fe-43ca-a052-216b7787865e	GET	/user?id=661ad1cc0c13284c624eee71&username=deepu	undefined
+20240414	15:56:20	d933ff83-7017-42a7-a0ac-4dd91389596e	GET	/user?id=661ad1cc0c13284c624eee71&username=deepu	undefined
+20240414	15:58:41	a3c71808-80b4-4041-beec-4fe5fab5af04	GET	/user?id=661ad1cc0c13284c624eee71	undefined
+20240414	16:01:27	429113de-edea-4ed6-95c9-bcaac36ccc56	GET	/user?id=661ad1cc0c13284c624eee71	undefined
+20240414	16:02:04	3700f0ee-aeb2-4e7a-a652-7573d431064e	GET	/user?id=661ad1cc0c13284c624eee71	undefined
+20240414	16:09:15	fc603ad3-bf60-4814-8607-789fed8f0e89	GET	/user?id=661ad1cc0c13284c624eee71	undefined
+20240414	16:10:18	e7c6d53f-47f3-4531-adbd-94bf5906f78e	GET	/user?id=661ad1cc0c13284c624eee71	undefined
+20240414	16:10:42	cd45542e-ea7b-468c-b96e-50b77ae6a286	GET	/user?id=661ad1cc0c13284c624eee71&username=deepu	undefined
+20240414	16:20:47	aa4ffbb9-41d0-44f0-80d7-1e48a868b75c	GET	/user/661ad1cc0c13284c624eee71	undefined
+20240414	16:21:07	8674979a-4054-4242-93cd-e0ed136572e3	GET	/user/661ad1cc0c13284c624eee71/change-password	undefined
+20240414	16:28:15	97d34982-b003-421c-8f1c-cdf25c6b1f43	GET	/user	undefined
+20240414	16:28:58	cbd79821-8699-4ecb-a93b-2eefad6a6d45	POST	/user	undefined
+20240414	16:29:20	70a1ede0-39ba-4ebd-82d6-b01a327d3729	POST	/user	undefined
+20240414	16:30:02	60d4565b-3e50-4b7f-9356-3b6156ac788e	POST	/user/	undefined
+20240414	16:31:22	7a13045e-c048-457f-9fc9-9958cdad2629	POST	/user/register	undefined
+20240414	16:31:55	6517d978-f8b6-44d8-b389-a954208250b0	POST	/user/register	undefined
+20240414	16:32:04	f221ef0f-da8b-4f48-85d2-00d9ba92879d	POST	/user/all	undefined
+20240414	16:32:13	dc60ca69-d7cb-4145-b145-0f639e60891c	GET	/user/all	undefined
+20240414	16:37:40	3accb8c2-2161-4d31-92bd-567b38107099	GET	/user/all	undefined
+20240414	16:38:49	d4fd9451-5104-479c-a54d-617cd6716bba	GET	/user/change-password	undefined
+20240414	16:39:29	913d08fb-6f17-454d-8445-f3b1450194fb	GET	/user/change-password	undefined
+20240414	16:41:52	47e9b2e9-89c7-4909-8630-e784def46e36	PATCH	/user/change-password	undefined
+20240414	16:42:10	dbef3fbf-0458-4554-b086-6eff47d8ea83	GET	/user/all	undefined
+20240415	12:12:20	c8f60ac7-d266-41b3-a5c3-06d8a5b18543	GET	/user/all	undefined	::1
+20240415	12:12:37	567a5aff-94f6-4214-8344-82b442dead5b	GET	/user/all	undefined	::1
+20240415	12:12:46	1f18b65b-79ca-4315-a8fd-932bb53899a7	GET	/user/661bb7a46159041d4a9aa5b3	undefined	::1
+20240415	12:13:11	e4bcfd66-21da-48a2-a058-3c291587c81e	GET	/user/661bb7a46159041d4a9aa5b3/change-password	undefined	::1
+20240415	12:14:11	a273b011-0a8e-45f7-b3da-560016aee820	GET	/user/all	undefined	::1
+20240415	12:14:21	e279a5a2-5764-4329-a1a2-219de3330090	GET	/user/all	undefined	::1
+20240415	12:15:42	7422bd61-6fd0-436e-95c6-04350bc08472	GET	/user/all	undefined	::1
+20240415	12:15:55	1313031b-98e9-466e-9bfd-8b8422be354d	GET	/user/661ad1cc0c13284c624eee71	undefined	::1
+20240415	12:16:15	533ff716-2e55-4b7d-be17-453221721764	GET	/user/661ad1cc0c13284c624eee71	undefined	::1
+20240415	12:16:31	1a452ca7-280c-41dc-ad48-8c8e5ac5a040	GET	/user/661ad1cc0c13284c624eee71/change-password	undefined	::1
+20240415	12:16:59	a61bfefb-23f9-4bb8-bc75-8cc82f8e1f94	GET	/user/661ad1cc0c13284c624eee71	undefined	::1
+20240415	12:41:04	bf00cb53-39f4-483e-a6e1-7260463fd9ec	GET	/user/661ad1cc0c13284c624eee71	undefined	::1
+20240415	12:41:11	0d02dc3a-caf2-4649-93b2-3f00536a2a94	GET	/user/	undefined	::1
+20240415	12:41:26	5cd25807-2658-4ca3-995c-9dd8288c9c6c	GET	/user/661ad1cc0c13284c624eee71	undefined	::1
+20240415	12:44:57	885e8f94-c224-4cfa-833b-05cd1ab0f2d2	GET	/user/	undefined	::1
+20240415	12:45:03	3bf207e0-a9de-42bf-8dae-45ad951e63fd	GET	/user	undefined	::1
+20240415	12:45:15	1880f66b-1cdd-4265-bf51-0652273d6edd	GET	/user/661ad1cc0c13284c624eee71	undefined	::1
+20240415	12:46:10	69a50e2e-a4bd-4a49-a30d-abca4e5ee834	GET	/user/661ad1cc0c13284c624eee71	undefined	::1
+20240415	12:46:17	7eb05fcd-dc76-4404-9751-c8378bf7854e	GET	/user/	undefined	::1
+20240415	12:48:02	cceed5fe-680a-4eaa-b2b4-68ff1448dc21	GET	/user/	undefined	::1
+20240415	12:48:17	7b90ad51-ef3c-4255-a256-3c15c47dff81	GET	/user/661bb7a46159041d4a9aa5b3	undefined	::1
+20240415	12:48:27	a9c8e46d-1f74-4b94-8b95-1fdabe95e8cb	GET	/user/661bb7a46159041d4a9aa5b3/change-password	undefined	::1
+20240415	12:59:14	9dd6f3d1-e9d1-460a-8581-769ad563610e	POST	/courses	undefined	::1
+20240415	13:01:24	047df986-88e3-4c04-9a69-5db03d6de8f9	POST	/courses	undefined	::1
+20240415	13:03:26	d53a673b-9563-42b3-ab93-3ac1a9734473	POST	/courses	undefined	::1
+20240415	13:04:11	c73ccbbd-bfae-4a81-9dc6-f996ff0874ec	POST	/courses	undefined	::1
+20240415	13:08:01	4907600d-ab90-479a-87df-ecc4fa5af8ee	POST	/courses	undefined	::1
+20240415	13:10:10	e31337f2-6751-43d7-8b94-275078135350	POST	/courses	undefined	::1
+20240415	13:21:12	d8bfacd0-f779-478e-912a-4ab09d1ca49c	POST	/courses	undefined	::1
+20240415	13:21:50	402208b0-1098-4cb9-815c-b3b780c87a94	POST	/courses	undefined	::1
+20240415	13:22:49	d8283674-d9ca-451f-af47-c3263916c2df	POST	/courses	undefined	::1
+20240415	13:24:58	a53cee47-8988-4828-a929-898ab0a4b5cb	POST	/courses	undefined	::1
+20240415	13:26:01	da8b1984-0983-4fff-9cac-30946bc9a7b3	POST	/courses	undefined	::1
+20240415	13:27:20	937271fd-659a-4774-b352-358c0d7270cd	POST	/courses	undefined	::1
+20240415	13:27:53	2e6422d5-4001-428a-8e5d-4a66223ae1c3	POST	/courses	undefined	::1
+20240415	13:29:06	8ee1a91e-ef05-4671-a395-fd8d7c351aa5	POST	/courses	undefined	::1
+20240415	13:30:41	4ae9e4ec-22bd-4251-9952-36e8158026ef	POST	/courses	undefined	::1
+20240415	13:32:08	3c634d4f-fe8e-49e1-bcf7-48c1091e05ce	POST	/courses	undefined	::1
+20240415	13:35:51	08b67ea0-b128-43fa-afe2-6af384554f98	POST	/courses	undefined	::1
+20240415	13:38:37	e1a1b2eb-56e0-4133-9d30-498dae8871dc	POST	/courses	undefined	::1
+20240415	13:39:05	82d8280c-e48e-4e66-a71a-0f6294dd76d8	POST	/courses	undefined	::1
+20240415	13:41:27	610b3fa5-0125-455a-91db-94aef7a3e199	POST	/courses	undefined	::1
+20240415	13:42:36	975ec63b-31ee-4c32-a918-c266ce79c080	POST	/courses	undefined	::1
+20240415	13:51:33	297162aa-88c4-48ea-839e-b892de5cd69a	POST	/courses	undefined	::1
+20240415	13:51:56	2cb61007-5327-43e1-8a28-83ec06133e86	POST	/courses	undefined	::1
+20240415	13:53:59	219665bf-04a8-4ed9-8e8e-925c71b08f15	POST	/courses	function status(code) {
+  if ((typeof code === 'string' || Math.floor(code) !== code) && code > 99 && code < 1000) {
+    deprecate('res.status(' + JSON.stringify(code) + '): use res.status(' + Math.floor(code) + ') instead')
+  }
+  this.statusCode = code;
+  return this;
+}	{res.message}}
+20240415	13:58:18	24f3d01a-bfa5-4ee3-8cb8-ba1d3e3ee98d	POST	/courses	function status(code) {
+  if ((typeof code === 'string' || Math.floor(code) !== code) && code > 99 && code < 1000) {
+    deprecate('res.status(' + JSON.stringify(code) + '): use res.status(' + Math.floor(code) + ') instead')
+  }
+  this.statusCode = code;
+  return this;
+}	undefined}
+20240415	14:06:08	9e0be957-3f27-4527-a2c1-e06f7ab05f31	POST	/courses	undefined	undefined
+20240415	14:16:41	f0e51b1f-7884-4238-a32f-b6073f7787f7	POST	/	403	{"message":"You are not authorized"}
+20240415	14:18:38	bd701db1-703b-4769-88a2-c731080cda05	POST	/	403	undefined
+20240415	14:20:34	6d574f48-61d2-4e18-a1a3-17171ce77b87	POST	/	403		{"message":"You are not authorized"}
+20240415	14:25:32	230b2ebc-1a09-4aad-9573-409fe02cebe0	POST	/	403		{"message":"You are not authorized"}
+20240415	14:29:42	421f90b1-f74e-4b3b-8481-e40b2c9a6ea3	POST	/	403		{"message":"You are not authorized"}
+20240415	14:32:37	9a44b77d-3ad5-4a8e-b135-636c5a4dea1d	POST	/	403		{"message":"You are not authorized"}
+20240415	14:38:16	65b9f914-a2ea-45e3-aa45-13177282edd2	POST	/courses/
+20240415	14:38:16	b5499004-ee78-4f3a-afa7-3862fa04c178	403		{"message":"You are not authorized"}
+
+20240415	14:42:29	f39b6283-fac3-41f8-9d2b-310a6d9c98c1	Request: POST	/courses/
+
+20240415	14:42:29	52fa6301-fc01-4808-9a97-4316d6f052c7	 Respone: 403		{"message":"You are not authorized"}
+
+20240415	14:43:09	f3172f7c-fb48-4c7f-ab32-2425097918b6	Request: POST	/courses/
+20240415	14:43:09	9abe4136-16db-423d-8af8-0e66e1fb578e	 Respone: 403		{"message":"You are not authorized"}
+
+20240415	18:53:24	e055606f-3b92-41f6-9d90-70f20f90c213	Request: POST	/courses/
+20240415	18:53:25	6f104dbd-91cb-4719-aba8-0fffbf34566c	 Respone: 200		{"message":"Cannot access 'coursename' before initialization"}
+
+20240415	18:54:15	48973e26-ba3d-402e-af59-b93482ac68f5	Request: POST	/courses/
+20240415	18:54:15	fb977516-b2b1-4dee-a569-3ee4260570bf	 Respone: 400		{"message":"Course already exists"}
+
+20240415	18:58:50	32f8dd33-110c-4ade-ab21-de3832e0ce17	Request: POST	/courses/
+20240415	18:58:51	f4b560d7-0157-4c62-9fb4-8b201cce40eb	 Respone: 400		{"message":"Course already exists"}
+
+
+
+20240415	19:01:13	b057ca08-5c03-46a4-b2f1-05062d1f8c22	Request: GET	/courses/
+20240415	19:01:13	cb5cd81b-456d-4027-8616-62eb6f8902e2	 Respone: 200		undefined
+
+20240415	19:07:23	d12cad21-faea-43d0-a2b3-396370b4ff68	Request: GET	/courses/
+20240415	19:07:23	d050feed-f382-4c96-a1e8-6d53d2856167	 Respone: 200		undefined
+
+20240415	19:09:21	dec57c99-3d99-483b-8104-62cb49a7655d	Request: GET	/courses/
+20240415	19:09:21	cc20127e-5684-4d22-afab-ba34f0491995	 Respone: 200		Courses found
+
+20240415	19:12:34	10be70fa-d186-4134-8c3d-f2af85e1567f	Request: POST	/courses/
+20240415	19:12:34	87cfb37c-e53f-43e3-a808-bb930344bb11	 Respone: 200		Course created successfully
+
+20240415	19:12:36	01742bc8-541c-45e0-ac7f-2e91ceddfa07	Request: POST	/courses/
+20240415	19:12:36	785786e6-b9a4-4582-93a1-b59e66090fd0	 Respone: 200		Course created successfully
+
+20240415	19:13:03	df9809ea-d521-4979-af31-2f0198399794	Request: POST	/courses/
+20240415	19:13:03	4349228e-0938-43f3-85d1-f59d96ea590b	 Respone: 200		Course created successfully
+
+20240415	19:13:04	669a0aae-b5ad-422e-9bae-c820e38d1e08	Request: POST	/courses/
+20240415	19:13:04	180d1a80-a7ba-4b1f-a8b9-5584a966eace	 Respone: 200		Course created successfully
+
+20240415	19:13:06	edca6d10-9dc1-4b67-85e8-330ae90d9fcf	Request: POST	/courses/
+20240415	19:13:06	c3fb116c-9a2d-4e3c-93d1-b08f0374784a	 Respone: 200		Course created successfully
+
+20240415	19:13:08	64344e7d-fc6b-4f1c-b656-4c071dfeed44	Request: POST	/courses/
+20240415	19:13:08	75e618f4-6325-478c-80ee-f9a9ed28f3fe	 Respone: 200		Course created successfully
+
+20240415	19:13:09	7dce9b3a-1035-4240-89f8-105a6680ddd1	Request: POST	/courses/
+20240415	19:13:09	32d707e0-62b5-4a66-a994-687ed8066c47	 Respone: 200		Course created successfully
+
+20240415	19:13:10	d3c7848c-533c-44a1-b24c-dacbf54e9b10	Request: POST	/courses/
+20240415	19:13:10	486057a3-60a2-422e-9dda-bf8e63a2b9c0	 Respone: 200		Course created successfully
+
+20240415	19:13:12	1ac0c64b-9635-43a3-a9a8-a91bf66f8917	Request: POST	/courses/
+20240415	19:13:12	4cffca3f-b580-4ab2-93fc-53f17a530728	 Respone: 200		Course created successfully
+
+20240415	19:13:13	073a04b6-ff91-44d4-b6b3-036e15fa1952	Request: POST	/courses/
+20240415	19:13:13	c904e45b-85af-4a81-951a-65c3e04ce959	 Respone: 200		Course created successfully
+
+20240415	19:13:14	4bf3cf6b-40bc-43d4-887d-e7f5867c01cd	Request: POST	/courses/
+20240415	19:13:14	384cded0-5cb3-4a46-a998-891415608535	 Respone: 200		Course created successfully
+
+20240415	19:13:15	8f1f6079-549d-4a05-b586-d8098ae3ee15	Request: POST	/courses/
+20240415	19:13:15	b627f003-3ac8-4782-a4ba-1740d9d1b3da	 Respone: 200		Course created successfully
+
+20240415	19:13:16	f02156d9-da47-442e-b166-0c8ac07412fa	Request: POST	/courses/
+20240415	19:13:16	37c9891d-72c5-4e40-acbf-b41aabc1a2fd	 Respone: 200		Course created successfully
+
+20240415	19:13:19	3da58caa-7aee-4009-ba20-9f7770541de2	Request: POST	/courses/
+20240415	19:13:19	aa1d2744-0fdd-4f29-a9c9-89745f2b6849	 Respone: 200		Course created successfully
+
+20240415	19:13:20	3bcede9a-239c-415c-80dd-61345b8e9b5b	Request: POST	/courses/
+20240415	19:13:20	01616b83-6b01-464c-95d1-bb03820dcffe	 Respone: 200		Course created successfully
+
+20240415	19:13:21	c1378cff-9650-40d4-aff7-b6c8cda03aed	Request: POST	/courses/
+20240415	19:13:21	37ed61e4-816e-4b14-acbf-bfaeba6e3bfd	 Respone: 200		Course created successfully
+
+20240415	19:13:23	8dd1267e-2aae-4e7b-9d7b-6626f02b6ce7	Request: POST	/courses/
+20240415	19:13:23	cd19caf3-83ac-40c1-ac53-3bdb582f0ce2	 Respone: 200		Course created successfully
+
+20240415	19:13:24	cb18c718-2f69-430d-bf5c-ef740a1acf63	Request: POST	/courses/
+20240415	19:13:24	22722e68-773d-43c6-b706-fcaee982cfa3	 Respone: 200		Course created successfully
+
+20240415	19:13:25	bd1f7399-93f3-4b45-969c-0ba5c9d18675	Request: POST	/courses/
+20240415	19:13:25	82a61f26-4d2b-4d44-94b1-934a7bdc34c7	 Respone: 200		Course created successfully
+
+20240415	19:13:26	81054951-7046-467f-bf70-03cf84af686b	Request: POST	/courses/
+20240415	19:13:26	974dea58-8dcc-4e97-b52a-f2504e0a68df	 Respone: 200		Course created successfully
+
+20240415	19:13:27	8363b0f0-8bd6-4776-8c85-fa696bc96b64	Request: POST	/courses/
+20240415	19:13:27	48f3c65f-aec8-47d5-8d53-16e6498b399d	 Respone: 200		Course created successfully
+
+20240415	19:13:27	5cf49e2e-6c8c-4320-ac32-3981809c20a8	Request: POST	/courses/
+20240415	19:13:28	cc14f11a-9f83-44d9-a598-deb19e774c51	 Respone: 200		Course created successfully
+
+20240415	19:13:28	1b352f3c-8f75-485f-b5ac-7e43011a10ab	Request: POST	/courses/
+20240415	19:13:28	bfd2dcb1-e4a4-4783-b6d4-3665dab588a1	 Respone: 200		Course created successfully
+
+20240415	19:13:29	19b0f3b2-63a6-4746-bf0c-13b0e1f8c83e	Request: POST	/courses/
+20240415	19:13:29	c2ee8a2a-35dc-4047-af06-36b6364b205c	 Respone: 200		Course created successfully
+
+20240415	19:13:30	66c26cf4-12b1-4169-83f3-a57f479ed686	Request: POST	/courses/
+20240415	19:13:30	d1001c6e-0316-4c9e-afff-b98eda8de996	 Respone: 200		Course created successfully
+
+20240415	19:13:31	0d1bfd3a-5d5d-45db-baa7-f8db58460f1a	Request: POST	/courses/
+20240415	19:13:31	4bfa4b7a-979b-4993-9f2b-82e23ae2825f	 Respone: 200		Course created successfully
+
+20240415	19:13:32	f46375ec-0e1c-4f5e-883b-a36bd1c14a69	Request: POST	/courses/
+20240415	19:13:32	7b5b3279-7ac0-4a80-80ab-d2053b43efe3	 Respone: 200		Course created successfully
+
+20240415	19:13:33	f84e4b13-8279-47c8-8a2e-02ddd3120d1c	Request: POST	/courses/
+20240415	19:13:33	60bbe0f4-306d-4d4a-a03b-c37543a9b5a7	 Respone: 200		Course created successfully
+
+20240415	19:13:34	f6f4792c-4631-41a8-8fe7-a2e5ddc36921	Request: POST	/courses/
+20240415	19:13:34	5585bef1-c75e-448e-9de8-4a787106dd5e	 Respone: 200		Course created successfully
+
+20240415	19:13:35	58641410-f7d7-4f22-ae57-cbf9c7ddb1af	Request: POST	/courses/
+20240415	19:13:35	3852d01b-2b9c-444a-9d1d-fe4df8325aee	 Respone: 200		Course created successfully
+
+20240415	19:13:36	221da1d7-bde7-4d7f-9cdb-f5230bbe4be1	Request: POST	/courses/
+20240415	19:13:36	8abaefd7-12d8-4356-906e-4fc0feab8795	 Respone: 200		Course created successfully
+
+20240415	19:15:32	c6f5f6b4-2df6-42b9-b9a4-fc25aeef4264	Request: GET	/courses?level=Beginner&page=2&limit=10
+20240415	19:15:32	836e6ff4-44a5-4843-81d9-95e6a35c4948	 Respone: 200		Courses found
+
+20240415	19:17:25	9d4b7432-e83b-4f6e-bc5a-e1a0f69d88d4	Request: GET	/courses?level=Beginner&page=2&limit=30
+20240415	19:17:25	deb2dcf9-d47f-4886-b573-009f03aa6c03	 Respone: 200		Courses found
+
+20240415	19:17:57	e430e103-4317-4a2c-89e0-4a0129c9852c	Request: GET	/courses?level=Beginner&page=1&limit=30
+20240415	19:17:57	0197b178-7070-4249-a389-90f9af08b9a5	 Respone: 200		Courses found
+
+20240415	19:27:09	534e9322-ccef-4dc3-acf4-36e2bd58c375	Request: POST	/users/661ad1cc0c13284c624eee71/enroll
+20240415	19:27:09	150349fe-f7fb-4ff0-b4e4-cd4018b0515a	 Respone: 400		Course not found
+
+20240415	19:27:24	c1d756d9-6c0d-4ca8-97e0-25fe2be1b3ed	Request: POST	/users/661ad1cc0c13284c624eee71/enroll
+20240415	19:27:24	5691b47f-0433-4557-9c85-f6d4205099a7	 Respone: 200		Enrolled successfully
+
+20240415	19:27:49	22bf28a7-74fd-4e04-aca1-894a9bd8c6d2	Request: POST	/users/661ad1cc0c13284c624eee71/enroll
+20240415	19:27:49	3dc7c2a3-c6c3-4eee-9251-d9c35eddb3f9	 Respone: 400		Already enrolled
+
+20240415	19:32:51	b4c2ea23-190f-48c5-836a-baa30288f1e5	Request: GET	/users/661ad1cc0c13284c624eee71/getMyCourses
+20240415	19:33:12	6101fdef-18b0-4d28-bf44-7ab31528f9f0	Request: GET	/users/661ad1cc0c13284c624eee71/my-courses
+20240415	19:33:12	2a85a055-3a3f-4fdc-91e8-0c0b6f54cd95	 Respone: 200		Courses found
+
+20240415	19:35:07	f7450664-6764-4fb7-985e-f07279052f5a	Request: GET	/users/661ad1cc0c13284c624eee71/enroll
+20240415	19:35:11	48d3fdfd-20da-40ef-8d22-484ca37f12d2	Request: POST	/users/661ad1cc0c13284c624eee71/enroll
+20240415	19:35:11	a8658f82-85c4-492e-9983-ee3755d9137b	 Respone: 200		Enrolled successfully
+
+20240415	19:35:26	3ca13a88-b55d-48b6-97ab-586a2882b1b5	Request: GET	/users/661ad1cc0c13284c624eee71/my-courses
+20240415	19:35:26	f0d1aa29-1051-49b5-b2a4-2b48ac7a4eb3	 Respone: 200		Courses found
+
+20240415	19:39:35	eda35ec9-ba59-44bb-be92-757220f9f43b	Request: GET	/users/661ad1cc0c13284c624eee71/my-courses
+20240415	19:39:35	0a6fc03b-5273-45ec-9e66-4a3c5765251d	 Respone: 200		Courses found
+
+20240415	19:40:06	ed46013e-c434-4b03-9524-b33e6baca490	Request: GET	/users/661ad1cc0c13284c624eee71/my-courses
+20240415	19:40:06	bdea80e6-ad7a-425e-bcf7-91f3a19e1d0b	 Respone: 200		Courses found
+
+20240415	19:51:03	292b996e-0e72-4f24-bc49-4acbc400a012	Request: GET	/users/661ad1cc0c13284c624eee71/enroll
+20240415	19:51:16	ada31c3a-294f-469e-aa06-3d0acbcf3926	Request: POST	/users/661ad1cc0c13284c624eee71/enroll
+20240415	19:51:20	7ba2bdb8-b193-4c6e-86cb-d32500c4ce4a	 Respone: 200		Enrolled successfully and email sent
+
+20240416	13:24:36	45507530-244e-4dff-8337-29c5257952f7	Request: POST	/auth
+20240416	13:24:47	563e6c59-e52d-4e1f-b5e2-b935cdbc5b06	Request: POST	/auth/login
+20240416	13:24:48	6a1416b2-2c57-46b5-a33e-283fb6f44140	 Respone: 200		undefined
+
+20240416	13:26:10	15362a7a-97b7-4455-a39e-93c55e141815	Request: GET	/auth/refresh
+20240416	13:26:11	4411c6d7-b2f4-4fec-87a4-55840d8e4423	 Respone: 200		undefined
+
+20240416	13:26:40	21e41136-9311-483e-b27f-046fad497e4d	Request: GET	/auth/refresh
+20240416	13:26:40	5290acfc-38b5-42b3-ae18-e62db2a5d828	 Respone: 200		undefined
+
+20240416	13:27:04	14e645c8-9bde-4007-ab61-6d0645ca7c61	Request: POST	/auth/logout
+20240416	13:27:04	9ecb51bd-b1eb-4942-80de-8fdeab81fb7f	 Respone: 401		Unauthorized
+
+20240416	13:27:30	b92f4f37-6476-4b1c-9348-56154b02ba95	Request: POST	/auth/logout
+20240416	13:27:30	72a21a8f-4855-41d8-a357-f95121701e42	 Respone: 401		Unauthorized
+
+20240416	13:28:15	91b2db15-5d4a-4671-a993-e49ce9703fd7	Request: POST	/auth/login
+20240416	13:28:15	6ae0f333-56e7-4e1d-bb0a-a0e09a87f3b3	 Respone: 200		undefined
+
+20240416	13:28:42	dd712242-f254-4ae5-8b0d-8ac2e63f667c	Request: POST	/auth/login
+20240416	13:28:42	be567194-1eab-4b95-bc8d-64c70f25ddda	 Respone: 200		undefined
+
+20240416	13:29:13	3d1651be-0668-4988-a11a-e5c13aa1e638	Request: GET	/auth/refresh
+20240416	13:29:14	3bff5fd7-07b1-4e28-bdc3-6e4c8d075363	 Respone: 200		undefined
+
+20240416	13:29:26	9adf5349-8fd1-47c9-bd29-c7febaf416f2	Request: POST	/auth/logout
+20240416	13:29:26	b3bd1e91-05a6-486e-91db-affc46bcf11e	 Respone: 401		Unauthorized
+
+20240416	13:30:22	837ecf7f-5ac3-4878-9d69-ee104fed45d5	Request: POST	/auth/logout
+20240416	13:30:22	1392ffc3-2a9f-4191-9436-88de878e5020	 Respone: 401		Unauthorized
+
+20240416	13:30:25	b1c0a962-e642-4295-a333-d1980c3db680	Request: POST	/auth/logout
+20240416	13:30:25	31a4fba8-3e59-44fd-84ce-b00772592f8f	 Respone: 401		Unauthorized
+
+20240416	13:30:26	3819f88d-1ede-42e0-acd8-1e0e6954575e	Request: POST	/auth/logout
+20240416	13:30:26	2717c0db-249a-4afd-91b7-0fc737e200d0	 Respone: 401		Unauthorized
+
+20240416	13:30:27	5aaabbb3-8da6-415b-935e-24c1293e8066	Request: POST	/auth/logout
+20240416	13:30:27	5491bb3e-3554-4c06-9579-cacc0ecb877d	 Respone: 401		Unauthorized
+
+20240416	13:30:28	32c13042-2956-4426-8c40-93fa79b8c930	Request: POST	/auth/logout
+20240416	13:30:28	d6ec279f-013d-45df-b789-383710a7eae0	 Respone: 401		Unauthorized
+
+20240416	13:30:29	cf36d4de-ddbf-4401-945d-2f4fdfa793c5	Request: POST	/auth/logout
+20240416	13:30:29	b0749c8b-f055-414f-852f-44d6849f82d9	 Respone: 401		Unauthorized
+
+20240416	13:30:30	70c5b5f2-7ad8-49e2-9595-879127713b81	Request: POST	/auth/logout
+20240416	13:30:30	6ffaf6c7-0945-4ec5-8606-9c453fbf5c18	 Respone: 401		Unauthorized
+
+20240416	13:30:31	1f62fbd0-7d78-4439-922e-5bdde329cccd	Request: POST	/auth/logout
+20240416	13:30:31	9ce517f8-04d1-45cd-a5af-c45986dacd26	 Respone: 401		Unauthorized
+
+20240416	13:30:32	c12a77dd-48ae-4ce7-8dc7-ff3330d3393d	Request: POST	/auth/logout
+20240416	13:30:32	7735f589-01c3-43da-a560-9c0b16dd6058	 Respone: 401		Unauthorized
+
+20240416	13:31:59	819a71ca-ff58-43f4-a259-64af7c76dfe1	Request: POST	/auth/logout
+20240416	13:31:59	17db093f-c8eb-463b-b8ce-7dcab9c08235	 Respone: 401		Unauthorized
+
+20240416	13:33:05	cf11a1c9-a0e1-4d7e-a589-777aba66bba6	Request: GET	/auth/login
+20240416	13:33:11	05b11ecc-f26d-418c-bd02-e9795b091155	Request: POST	/auth/login
+20240416	13:33:11	f38aec9b-20fe-49ff-9e45-c29a693a5e7c	 Respone: 200		undefined
+
+20240416	13:33:18	70e747ab-dfdd-46f5-9ffc-69384bdd29b7	Request: POST	/auth/login
+20240416	13:33:18	2702bfbf-4978-406d-ae03-e4eeeb910575	 Respone: 200		undefined
+
+20240416	13:33:43	f8a6e330-b5f0-4733-8ed8-f3433841001d	Request: GET	/auth/refresh
+20240416	13:33:43	5e55042a-04db-4437-99d0-ba99074a45a6	 Respone: 200		undefined
+
+20240416	13:33:55	f23e360d-96b0-48da-8121-e240ff9c3ba6	Request: POST	/auth/logout
+20240416	13:33:55	78fcfa57-56ef-4cb4-a03f-aa3943284025	 Respone: 200		Cookie cleared
+
+20240416	13:36:09	1cd81aef-6394-43d1-918a-735b8dbdf863	Request: POST	/auth/login
+20240416	13:36:10	a0dba059-0cf9-405c-ac92-319a5b70b828	 Respone: 200		undefined
+
+20240416	13:36:29	1226d731-a23f-459e-8bb8-23f8c0d1d308	Request: GET	/auth/refresh
+20240416	13:36:29	9498332b-d011-4d24-8ee7-5c03da521ce2	 Respone: 200		undefined
+
+20240416	13:38:36	91fc120a-f6de-4814-a95c-78378b85f6f5	Request: GET	/auth/refresh
+20240416	13:38:36	d4c88bf6-b27c-4eb3-9921-ba5219c24cca	 Respone: 200		undefined
+
+20240416	13:41:02	e03534d4-d291-44d6-a8b5-b5337d76164c	Request: POST	/auth/logout
+20240416	13:41:02	b5206d65-6dfb-482f-b998-bada70ce9531	 Respone: 403		Forbidden
+
+20240416	13:41:27	cf1f04d1-da07-4273-9b9b-5b2bb546b7c9	Request: GET	/auth/refresh
+20240416	13:41:27	f9dd7845-5b7e-4bb4-b392-6cbea34a9b6b	 Respone: 200		undefined
+
+20240416	13:41:58	5e399ef0-8e75-4f2f-94c8-2711c3c78304	Request: POST	/auth/logout
+20240416	13:41:58	73a106ef-f9b4-43ac-b0c9-2adcdaddf4dd	 Respone: 403		Forbidden
+
+20240416	13:43:18	4f24c2dd-825c-4155-9b29-8a8a8a453052	Request: POST	/auth/logout
+20240416	13:43:18	a1b5c03b-1f3b-41bd-8623-0ebc713e36b4	 Respone: 403		Forbidden
+
+20240416	13:44:42	d6739058-4548-41d6-b6f5-239c30bcdc88	Request: POST	/auth/login
+20240416	13:44:42	81cec5d5-6659-498f-839c-41154a2a4b8a	 Respone: 200		undefined
+
+20240416	13:45:43	fb583df3-3121-44da-bf67-61d9689bcca1	Request: POST	/auth/login
+20240416	13:45:43	dde06e07-3c4a-41ee-87fb-0067e5a1bda1	 Respone: 200		undefined
+
+20240416	13:46:19	338cb02d-cad0-478e-93b2-449a85b4da55	Request: POST	/auth/logout
+20240416	13:46:20	142acce4-8a7b-4680-b574-5b6bc9f5204d	 Respone: 200		Cookie cleared
+
+20240416	13:46:51	e91c974d-a775-44f3-a54e-c41ddd454b8a	Request: POST	/auth/login
+20240416	13:46:51	086a72c6-0614-40d0-a135-56e544be101e	 Respone: 200		undefined
+
+20240416	13:48:13	af3b0c97-1585-4232-8bff-363ba4ad7cdb	Request: GET	/users/661ad1cc0c13284c624eee71
+20240416	13:48:13	ef59e9ea-6ef1-466d-8b84-59ee47e516fe	 Respone: 200		undefined
+
+20240416	13:48:20	6280d929-f2e5-4200-aa79-3bb322c855f2	Request: GET	/users/661ad1cc0c13284c624eee71
+20240416	13:48:20	449611cd-415c-4670-99c3-bfe6540e2b51	 Respone: 401		Unauthorized
+
