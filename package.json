@@ -4,7 +4,8 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-        "test": "nodemon server.js"
+        "test": "nodemon server.js",
+        "build": "node server.js"
     },
     "author": "Dipendra kumar",
     "license": "ISC",
