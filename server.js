@@ -36,6 +36,7 @@ app.use("*", (req, res) => {
 });
 app.use(errorHandler);
 app.use(checkAdmin);
+app.enable("trust proxy");
 
 mongoose.connection.once("open", () => {
     console.log("MongoDB connected successfully");
