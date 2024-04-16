@@ -80,7 +80,7 @@ const refresh = asyncHandler(async (req, res) => {
                     },
                 },
                 process.env.ACCESS_TOKEN,
-                { expiresIn: "10s" }
+                { expiresIn: "15m" }
             );
             return res.status(200).json({ accessToken });
         })
